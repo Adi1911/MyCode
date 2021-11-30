@@ -1,2 +1,2 @@
-# PY4E
+# PY
 Basic Python Algorithm Snippets
