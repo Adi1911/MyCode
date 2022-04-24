@@ -4,10 +4,7 @@ Filename: sortingTest.py
 CSCI 665: Homework 1
 Problem 5: Merge Sort, Insertion Sort, Bucket Sort.
 
-Authors:
-Batch 2 (8.00 am - 9.15 am)
-1. Aniket Narendra Patil (ap8504)
-2. Aditya Ajit Tirakannavar (at2650)
+Aditya Ajit Tirakannavar (at2650)
 """
 
 # import statmenets are below
