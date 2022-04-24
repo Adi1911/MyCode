@@ -1,7 +1,6 @@
 """
 File Name:  queens.py
 Author:     Aditya Ajit Tirakannavar (at2650@rit.edu)
-            Aniket Narendra Patil (ap8504)
 Course:     CSCI-665 Foundations of Algorithms
 HW 2.5:     Write a program that finds if the placement of n # of queens on nxn board is a valid solution
             or the queens are placed in non-attacking postion.
