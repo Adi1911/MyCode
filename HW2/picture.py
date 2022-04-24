@@ -1,7 +1,6 @@
 """
 File Name:  picture.py
 Author:     Aditya Ajit Tirakannavar (at2650@rit.edu)
-            Aniket Narendra Patil (ap8504)
 Course:     CSCI-665 Foundations of Algorithms
 HW 2.5:     Write a program that finds the number of swaps required to get people in the
             specified order of their age and height
